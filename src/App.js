@@ -26,7 +26,7 @@ const App = () => {
   return (
     <div className="container">
       <div class="main-title">
-        <h5>React Accordian</h5>
+        <h5>Quizling</h5>
       </div>
 
       {/* <h1>{JSON.stringify(showData)}</h1> */}
